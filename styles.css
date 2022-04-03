@@ -1,0 +1,138 @@
+
+body {
+  text-align: center;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 1.4rem;
+  color: #6166B3;
+}
+
+
+h1 {
+color: #FAEEE0;
+font-size: 4.5rem;
+line-height: 2;
+margin-top: 0;
+font-family: 'Yellowtail', cursive;
+}
+
+h2 {
+color: #D57E7E;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 3.1rem;
+font-weight: normal;
+padding-bottom: 10px
+
+}
+
+h3 {
+color: #98BAE7;
+font-size: 2.0rem;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+p {
+line-height: 2;
+}
+
+hr {
+  border: dotted #CCD1E4 6px;
+  border-bottom: none;
+  width: 15%;
+  margin: 100px auto;
+}
+
+a {
+  color: #FFEDDA;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 1.8rem;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e4685d;
+}
+
+.top-container {
+background-color: #CCD1E4;
+position: relative;
+padding-top: 100px;
+}
+
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #CCD1E4;
+  padding: 50px 0 20px;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 40px auto 60px auto;
+}
+
+.copyright {
+  color: #6166B3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+position: absolute;
+right: 240px;
+top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 260px;
+  bottom: 480px;
+}
+
+.communication {
+  width: 33%;
+  float: left;
+  margin-right: 30px;
+}
+
+.leader {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+	background-color:#fabfbb;
+	border-radius:42px;
+	border:2px solid #cf9e99;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:25px;
+	font-weight:bold;
+	padding:9px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+.btn:hover {
+	background-color:#e4685d;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
